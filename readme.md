@@ -34,4 +34,5 @@ shotty uses the confinguration file created by the AWS Client E.G.
 ##running
 
 'pipenv run python shotty/shotty.py'
->>>>>>> 8e2a4cc631e2fb72a37ee71216d7dede033d43d7
+
+'add list, stop, start commands'
